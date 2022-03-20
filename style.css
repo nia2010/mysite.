@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    
+    
+}
+header{
+    background-color: #B7F0FD;
+}
+#logo{
+    padding: 10px;
+    
+}
+header b{
+    color: #000000;
+    
+}
+header a{
+    color: #1B00D0;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    
+}
+h1{
+    color: #102B8C;
+    background-color: #C8EFFC;
+    text-align: center;
+}
+#contacts{
+    border: 10px solid pink;
+}
+p img {
+    background-color: #B7E48C;
+}
+#discount{
+    color: #1B00D0;
+}
+#delivery{
+    color: blue;
+}
+#cont{
+    text-decoration: none;
+    border: 3px solid black;
+    color: blue;
+    padding: 5px;
+}
+#wholesale{
+   color:blue ; 
+}
+p a{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
